@@ -1,2 +1,1 @@
-# koufujioghaghpgs.github.io
-これはGitHub PagesのURLのリポジトリです。
+現時点ではこのページはご覧いただけません。
